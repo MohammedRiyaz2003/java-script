@@ -1,0 +1,1 @@
+console.log("Assalamu Alikum Wa Rahmatullahi Wa Barakatahu")
